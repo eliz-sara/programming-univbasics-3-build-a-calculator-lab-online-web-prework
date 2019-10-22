@@ -34,7 +34,7 @@ end
 modulo(2,6)
 
 def square_root(num)
-  num = math.sqrt(num)
+  math.sqrt(num)
   puts num
   end
   
