@@ -34,6 +34,6 @@ end
 modulo(2,6)
 
 def square_root(num)
-  
-
-end
+  y = math.sqrt(num1+mum2)
+  puts x
+  end
