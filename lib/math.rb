@@ -7,8 +7,11 @@ addition(6,4)
 
 
 def subtraction(num1, num2)
-
+  puts num1 - num2
+  difference = num1 - num2
 end
+
+subtraction(6,4)
 
 def division(num1, num2)
 
