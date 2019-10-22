@@ -14,8 +14,11 @@ end
 subtraction(6,4)
 
 def division(num1, num2)
-
+  puts num1/num2
+  quotient = num1/num2
 end
+
+division(6,2)
 
 def multiplication(num1, num2)
 
