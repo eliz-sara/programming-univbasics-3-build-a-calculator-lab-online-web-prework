@@ -38,4 +38,4 @@ def square_root(num)
   puts num
   end
   
-  square_root(6)
+  square_root(4)
