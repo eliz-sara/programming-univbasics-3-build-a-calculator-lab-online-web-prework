@@ -21,8 +21,11 @@ end
 division(6,2)
 
 def multiplication(num1, num2)
-
+  puts num1 * num2
+  product = num1*num2
 end
+
+multiplication(6,2)
 
 def modulo(num1, num2)
 
