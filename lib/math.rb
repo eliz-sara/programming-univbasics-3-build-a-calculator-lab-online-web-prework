@@ -28,8 +28,11 @@ end
 multiplication(6,2)
 
 def modulo(num1, num2)
-
+  puts num2/num1
+  remainder = num2/num1
 end
+
+modulo(2,6)
 
 def square_root(num)
 
